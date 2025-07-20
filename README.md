@@ -13,7 +13,7 @@ This project demonstrates the use of Facebook Prophet to forecast energy consump
 
 ## 📁 Project Structure
 
-- `data/energy_consumption.csv` – Example dataset (Date, Consumption)
+- `data/AEP_hourly_1.csv` – Example dataset (Date, Consumption)
 - `notebooks/energy_forecast_prophet.ipynb` – Jupyter Notebook with full code
 - `requirements.txt` – Required Python packages
 
