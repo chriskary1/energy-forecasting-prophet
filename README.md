@@ -32,3 +32,5 @@ PJM Interconnection LLC (PJM) is a regional transmission organization (RTO) in t
 The hourly power consumption data comes from PJM's website and are in megawatts (MW).
 
 The regions have changed over the years so data may only appear for certain dates per region.
+
+Data from 2013-01-01 01:00:00 to 2018-08-03 00:00:00
