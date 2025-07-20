@@ -7,7 +7,7 @@ This project demonstrates the use of Facebook Prophet to forecast energy consump
 - Load historical energy consumption data (CSV)
 - Clean and prepare time series data using Pandas
 - Train a time series forecasting model using Prophet
-- Generate future predictions (30 days ahead)
+- Generate future predictions (365 days ahead)
 - Visualize results using Matplotlib
 - Export forecast results to CSV
 
